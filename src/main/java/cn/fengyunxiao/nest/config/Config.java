@@ -54,17 +54,17 @@ public class Config implements ConfigI {
     public static String apiTulingKey = "";
 
     // 相爱时间：年，月，日，计算出总的时间
-    public static int firstLoveYear = 2015;
-    public static int firstLoveMonth = 11;
-    public static int firstLoveDay = 11;
+    public static int firstLoveYear = 2022;
+    public static int firstLoveMonth = 02;
+    public static int firstLoveDay = 24;
     // 首页信息
     public static String firstTitlePrimary = "Our Small Nest";
-    public static String firstTitleSecondary = "晨哥 &nbsp; ❤ &nbsp; 芸霄";
-    public static String firstTimeLove = "2015-11-11";
-    public static String firstContactQQ = "2736629976";
-    public static String firstCopyRight = "CopyRight © 2015-";
+    public static String firstTitleSecondary = "申奥 &nbsp; ❤ &nbsp; 慧宇";
+    public static String firstTimeLove = "2022-02-24";
+    public static String firstContactQQ = "227461280";
+    public static String firstCopyRight = "wsa0227@gmail.com";
     public static String firstAdminMessage = "欢迎访问，欢迎观看，欢迎留言";
-    public static String firstKeywords = "我们的小窝,冯芸霄,张圣晨";
+    public static String firstKeywords = "我们的小窝,王申奥,程慧宇";
     public static String firstTimeStampHtml = "3";
 
     // js，css 优先使用 cdn
