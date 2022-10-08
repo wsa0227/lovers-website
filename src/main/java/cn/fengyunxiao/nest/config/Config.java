@@ -17,13 +17,13 @@ public class Config implements ConfigI {
     public static int pageNumber = 10;
 
     // 邮件接收者
-    public static String[] adminMail = {"2736629976@qq.com", "1350717815@qq.com"};//
+    public static String[] adminMail = {"227461280@qq.com", "3253774109@qq.com"};//
 
     // 后台登录信息
     public static String adminToken = "123456";
     public static String adminPhone = "admin";
     public static String adminLoginToken = "123456"; //  api token
-    public static String adminGoogle = "ZZZZZZZZZZZZZZZZ";
+    public static String adminGoogle = "wsachyaxq";
 
     // 上传的图片（将压缩后的保存到服务器，然后上传到 oss，便于快速访问）
     public static String imageLocalPath = "/home/image/";
